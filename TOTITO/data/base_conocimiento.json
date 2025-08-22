@@ -1,0 +1,152 @@
+{
+  "_________": {
+    "puntajes": {
+      "1,1": 1
+    },
+    "recomendado": "1,1"
+  },
+  "o___x____": {
+    "puntajes": {
+      "0,2": 0
+    },
+    "recomendado": "0,2"
+  },
+  "o_x_x_o__": {
+    "puntajes": {
+      "1,0": 0
+    },
+    "recomendado": "1,0"
+  },
+  "o_xxxoo__": {
+    "puntajes": {
+      "2,2": 0
+    },
+    "recomendado": "2,2"
+  },
+  "ooxxxoo_x": {
+    "puntajes": {
+      "2,1": 0
+    },
+    "recomendado": "2,1"
+  },
+  "____x____": {
+    "puntajes": {
+      "0,0": 4
+    },
+    "recomendado": "0,0"
+  },
+  "o_x_x____": {
+    "puntajes": {
+      "2,0": 4
+    },
+    "recomendado": "2,0"
+  },
+  "o_x_xxo__": {
+    "puntajes": {
+      "1,0": 1
+    },
+    "recomendado": "1,0"
+  },
+  "o___x___x": {
+    "puntajes": {
+      "0,2": 0
+    },
+    "recomendado": "0,2"
+  },
+  "oxo_x___x": {
+    "puntajes": {
+      "2,1": 0
+    },
+    "recomendado": "2,1"
+  },
+  "oxo_xx_ox": {
+    "puntajes": {
+      "1,0": 0
+    },
+    "recomendado": "1,0"
+  },
+  "____xo___": {
+    "puntajes": {
+      "0,0": 1
+    },
+    "recomendado": "0,0"
+  },
+  "x___xo_o_": {
+    "puntajes": {
+      "2,2": 1
+    },
+    "recomendado": "2,2"
+  },
+  "o_x_x_o_x": {
+    "puntajes": {
+      "1,0": 2
+    },
+    "recomendado": "1,0"
+  },
+  "o_x_x_ox_": {
+    "puntajes": {
+      "1,0": 1
+    },
+    "recomendado": "1,0"
+  },
+  "o_xxx_o__": {
+    "puntajes": {
+      "1,2": 0
+    },
+    "recomendado": "1,2"
+  },
+  "o_xxxoox_": {
+    "puntajes": {
+      "0,1": 0
+    },
+    "recomendado": "0,1"
+  },
+  "__o_x____": {
+    "puntajes": {
+      "0,0": 0
+    },
+    "recomendado": "0,0"
+  },
+  "x_o_x___o": {
+    "puntajes": {
+      "1,2": 0
+    },
+    "recomendado": "1,2"
+  },
+  "x_ooxx__o": {
+    "puntajes": {
+      "2,0": 0
+    },
+    "recomendado": "2,0"
+  },
+  "xoooxxx_o": {
+    "puntajes": {
+      "2,1": 0
+    },
+    "recomendado": "2,1"
+  },
+  "o___x_x__": {
+    "puntajes": {
+      "0,2": 0
+    },
+    "recomendado": "0,2"
+  },
+  "oxo_x_x__": {
+    "puntajes": {
+      "2,1": 0
+    },
+    "recomendado": "2,1"
+  },
+  "oxo_x_xox": {
+    "puntajes": {
+      "1,0": 0
+    },
+    "recomendado": "1,0"
+  },
+  "x_ooxxxoo": {
+    "puntajes": {
+      "0,1": 0
+    },
+    "recomendado": "0,1"
+  }
+}
